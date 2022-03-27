@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "brand": "Otobi",
+    "name": "Chair",
+    "color": "Yellow",
+    "price": 500,
+    "img": "https://media.istockphoto.com/photos/old-wooden-chair-picture-id1288259097?b=1&k=20&m=1288259097&s=170667a&w=0&h=J6H9f5HTSNxxlf5ffiRpYZWQakQENYWXmUhg8XaBjBk="
+  },
+    {
+    "id": "2",
+    "brand": "Regal",
+    "name": "Table",
+    "color": "Black",
+    "price": 7500,
+    "img": "https://freepngimg.com/thumb/table/13-wooden-table-png-image-thumb.png"
+  },
+  {
+    "id": "3",
+    "brand": "Akter",
+    "name": "Almari",
+    "color": "Blue",
+    "price": 91000,
+    "img": "https://www.ulcdn.net/images/products/290953/product/Bocado_Columbian_Walnut_3_Door_LP.jpg?1575882264"
+  },
+  {
+    "id": "4",
+    "brand": "Mir Furniture",
+    "name": "Comfort chair",
+    "color": "Golden",
+    "price": 6500,
+    "img": "data:image/jpeg;base64,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"
+  },  
+{
+    "id": "5",
+    "brand": "Desh Furniture",
+    "name": "Almari",
+    "color": "Black",
+    "price": 56000,
+    "img": "https://www.ulcdn.net/images/products/392756/product/Darmine_Wardrobe_Carbon_Black_LP.jpg?1632286219"
+  },  {
+    "id": "6",
+    "brand": "Simul Furniture",
+    "name": "Table",
+    "color": "White",
+    "price": 8500,
+    "img": "https://www.ikea.com/in/en/images/products/nodeland-coffee-table-medium-brown__0974637_pe812499_s5.jpg?f=s"
+  },  
+{
+    "id": "7",
+    "brand": "Zabin Furniture",
+    "name": "Chair",
+    "color": "Blue",
+    "price": 3270,
+    "img": "https://media.gettyimages.com/photos/empty-chair-taken-in-studio-with-blue-background-picture-id1271743082?s=612x612"
+  },  
+{
+    "id": "8",
+    "brand": "BD Furniture",
+    "name": "Almari",
+    "color": "Yellow",
+    "price": 34090,
+    "img": "https://static-01.daraz.com.bd/p/18fc61edef66c69819f2a3758cb70e78.jpg"
+  },  {
+    "id": "9",
+    "brand": "Finle Furniture",
+    "name": "Table",
+    "color": "Black",
+    "price": 9999,
+    "img": "https://otobi.com/wp-content/uploads/TCOR001WDBO028-600x600.jpeg"
+  }
+]
