@@ -4,8 +4,8 @@ import './Nav.css';
 const Nav = () => {
     return (
         <div className='header'>
-           <h1>Car World</h1>
-           <h2>Choice For the car lovers</h2>
+           <h1>Furniture</h1>
+           <h2>Select You Furniture</h2>
         </div>
     );
 };
