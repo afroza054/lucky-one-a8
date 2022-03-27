@@ -1,4 +1,4 @@
-Project Hosted in  Netlify App.
+Project Hosted in  Netlify App[https://furniture-react-app.netlify.app].
 
 ## Getting Started with Create React App
 
