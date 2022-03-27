@@ -1,4 +1,4 @@
-Project Hosted in  [https://car-world.netlify.app/](https://car-world.netlify.app/).
+Project Hosted in  Netlify App.
 
 ## Getting Started with Create React App
 
